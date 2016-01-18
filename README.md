@@ -6,6 +6,7 @@ This repository contains both the cpp source file and a release version of the p
 
 The cpp can be found in Snake->Snake.cpp.   
 
-The release can be found in Release->Snake.exe.
+The release can be found in Release->Snake.exe.      
+
 I apologise for the source file that is NOT very clean-code since I didn't start working on it with that aspect in mind and I didn't bother fixing that aspect of it afterwards.
 
