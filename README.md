@@ -2,7 +2,8 @@
 Faculty of Computer Science Iasi - Cristian Simionescu - Introduction to Programming - Project
 
 ## ---NEXUS SNAKE--- ##
-This repository contains both the cpp source file and a release version of the project. 
+This repository contains both the cpp source file and a release version of the project.     
+
 The cpp can be found in Snake->Snake.cpp.   
 
 The release can be found in Release->Snake.exe.
