@@ -1,7 +1,19 @@
-# IP_2015-2016_Nexus_Snake
-Faculty of Computer Science Iasi - Cristian Simionescu - Introduction to Programming - Project
+Snake 1
+---
 
-##        NEXUS SNAKE    ##
+####Faculty of Computer Science, "Alexandru Ioan Cuza" University
+
+**University year:** 2015-2016
+
+**Author:** Simionescu Cristian 
+
+**Course:** Introduction to programming
+
+---
+
+This projects was built for the Introduction in programming course. The purpose of the project was to prove the understanding of basic programming concepts in the C++ language.
+
+## NEXUS SNAKE ##
 This repository contains both the cpp source file and a release version of the project.     
 
 The cpp can be found in Snake->Snake.cpp.   
